@@ -8,3 +8,4 @@ var topic = "space";
 
 var conversation = 'Let\'s talk about space.';*/
 
+let greeting = "Hello, everybody!";
