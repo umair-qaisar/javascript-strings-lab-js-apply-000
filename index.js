@@ -9,3 +9,7 @@ var topic = "space";
 var conversation = 'Let\'s talk about space.';*/
 
 let greeting = "Hello, everybody!";
+
+let specialGuest = "Neil deGrasse Tyson"
+
+let greetSpecialGuest = `Hello, ${specialGuest}!`
